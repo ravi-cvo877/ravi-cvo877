@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi Prakash Mishra, My TCAD is cvo877.
 - 👀 I’m interested in CI/CD pipelines, Microservices, Automations, etc.
-- 🌱 I’m currently learning Release Management.
+- 🌱 I’m currently learning Release Management and Ticket/Incident Management for NEO.
 - 📫 How to reach me ---> Slack for quick response.
 
 <!---
